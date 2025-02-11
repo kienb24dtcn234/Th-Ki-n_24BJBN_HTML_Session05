@@ -1,0 +1,33 @@
+.kung {
+    border-style: solid;
+    border-color: green;
+    padding: 20px;
+}
+.submit{
+    background-color: green;
+    width: 130px;
+    padding:10px
+}
+.c{
+    color: brown;
+}
+.d2{
+    color: red;
+}
+div{
+    background-color: gray;
+}
+.table{
+    background-color: #fff;
+    border-left: 10px solid gray;
+    border-right: 10px solid gray;
+}
+.m3{
+    color:blue;
+}
+.1{
+    color: black;
+}
+.text{
+    color: red;
+}

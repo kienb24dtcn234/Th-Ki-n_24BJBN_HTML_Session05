@@ -1,0 +1,16 @@
+div {
+    background-color: black;
+}
+
+p {
+    font-size: 40px;
+    color: green;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    
+}
+
+h1 {
+    color: white;
+}

@@ -1,0 +1,21 @@
+div {
+    background-color: rgb(178, 167, 167);
+}
+
+table {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+thead {
+    background-color: rgb(27, 88, 200);
+    color: white;
+}
+
+.tr2 {
+    background-color: white;
+}
